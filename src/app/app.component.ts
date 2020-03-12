@@ -45,7 +45,7 @@ export class AppComponent implements OnInit {
     {
       title: 'leo',
       url: '/folder/Loe',
-      icon: 'warning'
+      icon: 'heart'
     }
   ];
   public labels = ['Family', 'Friends', 'Notes', 'Work', 'Travel', 'Reminders'];
